@@ -682,12 +682,6 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: JESUS
-  metroPackageVersion: 
-  metroCertificatePath: 
-  metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: JESUS
   wsaImages: {}
   metroTileShortName: 
@@ -762,10 +756,4 @@ PlayerSettings:
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: JESUS
-  organizationId: jehu2022
-  cloudEnabled: 0
-  legacyClampBlendShapeWeights: 0
-  hmiLoadingImage: {fileID: 0}
-  platformRequiresReadableAssets: 0
-  virtualTexturingSupportEnabled: 0
-  insecureHttpOption: 0
+
